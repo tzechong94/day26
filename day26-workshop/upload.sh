@@ -1,0 +1,1 @@
+mongoimport "mongodb://localhost:27017" -d shows -c tv --jsonArray --file tv-shows.json
